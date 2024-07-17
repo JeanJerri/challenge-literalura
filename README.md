@@ -1,4 +1,4 @@
-![Thumbnail Challenge Conversor de Moedas](./img/Programação-Challenge%20Conversor%20de%20Moedas.png)
+![Thumbnail Challenge Conversor de Moedas](./img/Programação-Challenge%20LiterAlura.png)
 
 # LiterAlura
 
@@ -21,7 +21,7 @@ Neste projeto, construímos nosso próprio catálogo de livros utilizando Java, 
 
 ## 📁 Acesso ao projeto
 
-Você pode acessar o código fonte do projeto [aqui](./src).
+Você pode acessar o código fonte do projeto [aqui](./src/main).
 
 ## 🛠️ Abrir e rodar o projeto
 
