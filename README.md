@@ -44,9 +44,7 @@ Para executar o projeto, siga as instruções abaixo:
     ```
 5. Execute a classe `ChallengeLiteraluraApplication` para iniciar o programa.
 
-## 🛠️ Passo a passo criação do banco de dados.
-
-## 1. Configurando o PostgreSQL via pgAdmin
+## 🛠️ Passo a passo criação do banco de dados - Configurando o PostgreSQL via pgAdmin
 
 1. **Abra o pgAdmin** e conecte-se ao seu servidor PostgreSQL.
 
@@ -90,10 +88,12 @@ Para executar o projeto, siga as instruções abaixo:
 
 5. Defina variáveis de ambiente ou mude as variáveis diretamente no arquivo `.properties:
    
+```
 DB_HOST=localhost
 DB_NAME=literalura_db
 DB_USER=user_teste
 DB_PASSWORD=12345
+```
 
 
 ## 👩‍💻 Uso
